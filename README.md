@@ -63,7 +63,6 @@ The dashboard combines data from multiple sources into one interactive view. It 
 **Snapshot**  
 
 Show what the dashboard looks like here.  
-
 Example:  
 ![Dashboard Preview](https://github.com/MihirVachhani/Social-Media-Insights-Dashboard/blob/main/Snapshot%20of%20Excel%20DashBoard.png)
 
