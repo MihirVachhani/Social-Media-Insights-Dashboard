@@ -5,7 +5,7 @@ A dynamic, interactive analytics tool built in Excel to consolidate and visualiz
 ---
 
 ## 🌟 Short Description / Purpose  
-The **Social Media Insights Dashboard** brings together data from **Instagram, X (Twitter), YouTube, Facebook, and LinkedIn** into one clear view. Based on **550 posts published between January 2024 and October 2024**, it helps recruiters, clients, and marketing teams quickly understand how their content is performing, where their audience is growing, and when to post for maximum impact.  
+The **Social Media Insights Dashboard** brings consolidates data from **Instagram, X (Twitter), YouTube, Facebook, and LinkedIn** into one clear view. Based on **550 posts published between January 2024 and October 2024**, it helps recruiters, clients, and marketing teams quickly understand how their content is performing, where their audience is growing, and when to post for maximum impact.  
 
 ---
 
