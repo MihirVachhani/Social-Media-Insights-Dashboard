@@ -65,12 +65,7 @@ The dashboard combines data from multiple sources into one interactive view. It 
 ---
 
 ## 🚀 Future Improvements / Roadmap  
-- Add predictive analytics for audience growth.  
-- Automate monthly reporting exports.  
+- Add predictive analytics for audience growth.   
 - Expand video-only dashboard for deeper insights into retention and replay behavior.  
 - Integrate advanced charting (combined views, interactive overlays).  
 
----
-
-## 👤 Credits / Author  
-Developed by **Mihir** — passionate about building professional-grade dashboards that deliver clarity, actionable insights, and client-ready visuals.  
