@@ -98,7 +98,7 @@ This dashboard combines multi-platform data into one interactive view, deliverin
 
 An interactive Excel dashboard designed for real-time social media monitoring.
 
-> 🔗 **Dashboard Preview:** [View Dashboard Snapshot](https://github.com/MihirVachhani/Social-Media-Insights-Dashboard/blob/main/Snapshot%20of%20Excel%20DashBoard.png)
+![Dashboard Preview](https://raw.githubusercontent.com/MihirVachhani/Social-Media-Insights-Dashboard/main/Snapshot%20of%20Excel%20DashBoard.png)
 
 ### KPI Cards
 - Total Posts
